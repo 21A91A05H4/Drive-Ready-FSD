@@ -1,0 +1,62 @@
+/*div{
+	height: 600px;
+	width: 600px;
+	background-color: lightpink;
+	outline: 20px dotted red;
+}
+span{
+	font-size: 100px;
+	border: 2px solid red;
+	border-color: red green;
+	
+}
+clipped background
+span{
+	box-shadow: 0 0 0 10px firebrick;
+	outline: 10px dashed darkturquoise;
+	font-size: 50px;
+}
+h1
+{
+	background: red;
+	border: 3px solid green;
+	margin-top: 20px;
+	margin-bottom: 50px;
+	margin-left: 40px;
+	margin-right: 40px;
+}
+p
+{
+	background: blueviolet;
+}*/
+div{
+	background-color: white;
+	height: 400px;
+	width: 710px;
+}
+#div1{
+	background-color: blue;
+	height: 400px;
+	width: 200px;
+	float: left;
+	margin-right: 20px;
+	border: 5px solid red;
+}
+#div2{
+	background-color: orange;
+	height: 400px;
+	width: 200px;
+	float: left;
+	margin-left: 20px;
+	margin-right: 20px;
+	border: 5px solid purple;
+}
+#div3{
+	background-color: green;
+	height: 400px;
+	width: 200px;
+	float: right;
+	margin-left: 20px;
+	border: 5px solid blue;
+}
+

@@ -1,0 +1,32 @@
+p{
+	color: orangered
+	background-color: pink;
+	border: 3px solid black;
+}
+*{
+	font-family: cursive;
+	margin: 0px;
+	padding: 0px;
+}
+input[type="text"]
+{
+	color: pink;
+	font-family: cursive;
+}
+input[type="email"]
+{
+	color: blue;
+	font-family: italic;
+}
+a[href]
+{
+	color: red;
+	background-color: blueviolet;
+	font-size: 30px;
+}
+img[src]
+{
+	height: 300px;
+	width: 300px;
+	border: 5px dashed orangered;
+}
